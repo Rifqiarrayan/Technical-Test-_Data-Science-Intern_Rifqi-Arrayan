@@ -1,0 +1,501 @@
+id,application_id,customer_id,vehicle_id,coverage_type,area,additional_coverages,status,submitted_at
+1,0cd3b3a2-e56b-4c34-8c68-802144e6019b,1,1,TLO,Area 1,['Third Party Liability'],Policy Issued,2026-03-31 06:46:22.766251
+2,f79f1bf0-4b89-4d84-a474-4e7da17ec837,2,2,Comprehensive,Area 3,"['Flood', 'Earthquake']",Policy Issued,2025-07-14 06:46:22.766251
+3,5f42ae99-9b3b-46f1-9c70-025e3e4304c7,3,3,TLO,Area 3,"['Third Party Liability', 'Personal Accident']",Underwriting,2025-08-04 06:46:22.766251
+4,bf566270-fcf2-495c-b6e0-070f9fbbfbef,4,4,Comprehensive,Area 2,"['Riot', 'Personal Accident']",Submitted,2026-02-03 06:46:22.766251
+5,4a5ecca2-7d0a-4813-a217-5d3a6d187f7a,5,5,TLO,Area 3,"['Flood', 'Third Party Liability', 'Personal Accident']",Underwriting,2026-01-01 06:46:22.767252
+6,3dca2e25-b2fa-442b-b7e5-58a10dc05c17,6,6,TLO,Area 1,"['Flood', 'Earthquake', 'Personal Accident']",Policy Issued,2025-09-28 06:46:22.767252
+7,ce72e2e5-f060-4ffd-a8f9-6783da902a9d,7,7,TLO,Area 3,"['Third Party Liability', 'Personal Accident']",Document Verified,2025-10-20 06:46:22.767252
+8,a7ffc931-794b-4906-a918-ad1d59568456,8,8,Comprehensive,Area 3,['Riot'],Policy Issued,2026-04-20 06:46:22.767252
+9,07cd32b0-2e19-43c2-b423-89de8f0bec94,9,9,TLO,Area 3,"['Third Party Liability', 'Personal Accident']",Policy Issued,2025-08-25 06:46:22.767252
+10,3406ba09-7072-4734-881f-5b151e269977,10,10,Comprehensive,Area 1,"['Earthquake', 'Riot']",Submitted,2025-08-28 06:46:22.767252
+11,6820824b-3d09-46c9-8a99-623977faa047,11,11,Comprehensive,Area 3,"['Flood', 'Riot']",Document Verified,2026-07-06 06:46:22.767252
+12,79ea8fb5-2210-4a8b-a1eb-9e3acfdf711d,12,12,Comprehensive,Area 3,"['Flood', 'Riot']",Policy Issued,2025-11-06 06:46:22.767252
+13,fd1ae219-4be8-4c70-be76-eda7c5ae6d86,13,13,Comprehensive,Area 3,"['Flood', 'Riot', 'Personal Accident']",Policy Issued,2025-11-23 06:46:22.767252
+14,874f5a66-4502-4638-92ce-d801886f27d1,14,14,Comprehensive,Area 3,[],Document Verified,2025-07-14 06:46:22.767252
+15,e88bcfb2-c543-4bbd-bde6-ffcd73c2c0fa,15,15,TLO,Area 2,"['Flood', 'Riot', 'Third Party Liability']",Document Verified,2025-08-16 06:46:22.768256
+16,fee56bc0-f044-4a18-85d0-00b15340ec58,16,16,TLO,Area 3,[],Policy Issued,2026-03-06 06:46:22.768256
+17,9c8e9a90-0269-41c2-a3e1-56dd2d5695e3,17,17,Comprehensive,Area 3,"['Flood', 'Earthquake', 'Third Party Liability']",Policy Issued,2025-10-28 06:46:22.768256
+18,ad0e7b51-d8ae-447b-9fae-64487dd7ae53,18,18,TLO,Area 3,"['Flood', 'Riot', 'Personal Accident']",Underwriting,2026-07-01 06:46:22.768256
+19,735f7287-1605-45c2-8d41-4577904ab6e9,19,19,Comprehensive,Area 1,"['Flood', 'Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-09-19 06:46:22.768256
+20,1886fcbb-4c85-4464-b49c-c53bb6d502fd,20,20,TLO,Area 1,"['Flood', 'Riot']",Underwriting,2026-01-28 06:46:22.768256
+21,304c6757-6718-4d3d-bd07-1b812ef1da99,21,21,TLO,Area 2,"['Flood', 'Third Party Liability']",Policy Issued,2026-01-22 06:46:22.768256
+22,31ecc0e4-a1ad-4fd1-9df4-5cd9c80498ec,22,22,Comprehensive,Area 3,"['Flood', 'Earthquake', 'Third Party Liability']",Policy Issued,2025-12-22 06:46:22.768256
+23,bb03cf99-c45a-4094-8ddd-b600554d9e62,23,23,TLO,Area 3,['Third Party Liability'],Policy Issued,2026-01-01 06:46:22.768256
+24,e9a4a5d3-cf8e-4d4c-adf1-ce684dbc203f,24,24,Comprehensive,Area 2,"['Flood', 'Earthquake']",Submitted,2026-06-29 06:46:22.768256
+25,18451d8e-5f9d-465a-9387-3b16b871be38,25,25,TLO,Area 2,[],Underwriting,2026-03-13 06:46:22.768256
+26,02e568dc-5c5e-4399-a830-8121a517e3a3,26,26,Comprehensive,Area 2,['Third Party Liability'],Document Verified,2026-01-08 06:46:22.769254
+27,ee229344-299f-4941-838c-c4ae84677431,27,27,TLO,Area 3,[],Policy Issued,2026-03-19 06:46:22.769254
+28,0719f22a-ba29-4a3c-972b-ddb7c2e54ca6,28,28,TLO,Area 1,['Personal Accident'],Policy Issued,2025-08-28 06:46:22.769254
+29,62e9d63e-a8ad-444e-94f8-2642faae4d75,29,29,TLO,Area 3,"['Riot', 'Third Party Liability', 'Personal Accident']",Document Verified,2025-09-21 06:46:22.769254
+30,930b24d4-a9d3-4dfd-adef-2761d5d14faf,30,30,Comprehensive,Area 2,[],Policy Issued,2026-01-28 06:46:22.769254
+31,b5fec458-6eb6-4466-be1b-12600f20ae21,31,31,Comprehensive,Area 1,"['Flood', 'Personal Accident']",Rejected,2026-05-03 06:46:22.769254
+32,fe52be2b-e589-4595-b735-f25ae383d78b,32,32,Comprehensive,Area 2,"['Flood', 'Riot', 'Third Party Liability']",Policy Issued,2025-10-30 06:46:22.769254
+33,f95126ea-0958-4148-a62b-3358ed5d98c9,33,33,TLO,Area 2,"['Flood', 'Riot']",Policy Issued,2026-05-27 06:46:22.769254
+34,ba5951f0-309f-4e09-8bd8-dc0dd4772e7a,34,34,TLO,Area 1,"['Earthquake', 'Riot', 'Third Party Liability']",Policy Issued,2026-03-31 06:46:22.769254
+35,98a50440-a6c7-474a-93ee-3778626c7347,35,35,Comprehensive,Area 3,['Riot'],Policy Issued,2026-01-21 06:46:22.769254
+36,da6fec56-02ff-4fc8-96c7-35c36e001efc,36,36,TLO,Area 1,"['Riot', 'Third Party Liability']",Underwriting,2025-09-01 06:46:22.769254
+37,401857b0-c119-44c7-8ec0-7df5504d122a,37,37,TLO,Area 3,"['Earthquake', 'Third Party Liability']",Policy Issued,2026-06-06 06:46:22.770254
+38,337edd07-6619-4b6a-bbdb-4da16e881c55,38,38,Comprehensive,Area 2,"['Earthquake', 'Third Party Liability']",Policy Issued,2026-02-05 06:46:22.770254
+39,f9e45901-2c71-45e7-8c27-563fc5db40c5,39,39,TLO,Area 2,"['Riot', 'Third Party Liability']",Underwriting,2026-04-23 06:46:22.770254
+40,1b2b81d7-791c-49c4-b517-9f0884739283,40,40,TLO,Area 2,['Personal Accident'],Policy Issued,2026-02-16 06:46:22.770254
+41,99787135-ee82-4319-a6e9-b0f3f10d5eeb,41,41,Comprehensive,Area 1,[],Document Verified,2026-01-21 06:46:22.770254
+42,4febe5fe-5173-4ac6-8277-ea7a6dd72435,42,42,TLO,Area 2,['Riot'],Policy Issued,2025-12-17 06:46:22.770254
+43,df9686f8-2d0c-4e6a-a5e5-b9ae8048eec6,43,43,Comprehensive,Area 2,"['Earthquake', 'Personal Accident']",Document Verified,2025-10-19 06:46:22.770254
+44,e207aafd-6f21-4293-af8d-ae0520feedb5,44,44,Comprehensive,Area 2,['Flood'],Submitted,2025-07-07 06:46:22.770254
+45,0f6fc1bb-08b3-4d5b-a323-f53a62d58358,45,45,TLO,Area 3,"['Flood', 'Earthquake', 'Personal Accident']",Document Verified,2025-12-14 06:46:22.770254
+46,26b6914d-0165-47bd-aba5-a5be43b4fcae,46,46,Comprehensive,Area 2,['Personal Accident'],Policy Issued,2025-11-20 06:46:22.770254
+47,b7d47ca3-5a65-496e-b7b8-ff10324cdfa1,47,47,Comprehensive,Area 1,"['Flood', 'Earthquake', 'Personal Accident']",Document Verified,2026-06-11 06:46:22.770254
+48,a3465cae-668d-4e4b-8d1b-0a8cb8a06e36,48,48,Comprehensive,Area 3,"['Flood', 'Third Party Liability', 'Personal Accident']",Rejected,2025-10-24 06:46:22.770254
+49,2221393d-456e-4ecd-82ab-477cc1ce397b,49,49,Comprehensive,Area 2,[],Underwriting,2025-07-30 06:46:22.770254
+50,9d5847e7-14f0-4d56-bd51-8d61141b2daa,50,50,TLO,Area 2,[],Policy Issued,2026-07-04 06:46:22.770254
+51,c587a7a4-6d9f-410f-8a53-e223a1c2f7b2,51,51,Comprehensive,Area 2,"['Earthquake', 'Third Party Liability']",Underwriting,2025-10-06 06:46:22.770254
+52,82113328-ed7c-4473-b3ac-b480549d51f4,52,52,Comprehensive,Area 3,[],Submitted,2025-08-30 06:46:22.770254
+53,2c23061d-4e06-45ba-8347-01faedf801e4,53,53,TLO,Area 1,"['Earthquake', 'Third Party Liability']",Underwriting,2025-09-02 06:46:22.770254
+54,d49d7a99-313e-4445-b534-711e1d0c7178,54,54,Comprehensive,Area 2,"['Flood', 'Earthquake']",Policy Issued,2026-03-24 06:46:22.770254
+55,b03f6352-01d1-490a-9229-8fe71ce50d84,55,55,TLO,Area 1,"['Earthquake', 'Riot', 'Third Party Liability', 'Personal Accident']",Document Verified,2026-01-04 06:46:22.771773
+56,4213996b-91be-498e-9ab9-be9e64237216,56,56,Comprehensive,Area 2,"['Riot', 'Third Party Liability']",Policy Issued,2026-01-30 06:46:22.771773
+57,e309a074-aebc-4f50-96da-649f18e7ee15,57,57,TLO,Area 1,"['Flood', 'Earthquake', 'Third Party Liability']",Submitted,2025-11-15 06:46:22.771773
+58,e3a20601-9c4d-4d7c-aa11-2547f4434237,58,58,Comprehensive,Area 3,[],Policy Issued,2026-05-29 06:46:22.771773
+59,60f4a7a6-6559-4395-b80c-8ee2d7345b10,59,59,Comprehensive,Area 3,"['Flood', 'Earthquake', 'Third Party Liability', 'Personal Accident']",Rejected,2026-02-02 06:46:22.771773
+60,1f606512-ca62-47de-adae-c5bc6a4ea2dc,60,60,TLO,Area 1,"['Flood', 'Earthquake']",Policy Issued,2025-12-29 06:46:22.771773
+61,165d317b-4d13-42a9-833c-bd4c0793edd9,61,61,TLO,Area 2,"['Riot', 'Third Party Liability']",Submitted,2025-11-16 06:46:22.771773
+62,21f985a0-17f0-4a03-9d98-a917b58f32cc,62,62,Comprehensive,Area 3,"['Flood', 'Earthquake', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-11-06 06:46:22.771773
+63,29d86306-831a-4cb6-9b0a-908b39f256c7,63,63,TLO,Area 1,"['Earthquake', 'Third Party Liability', 'Personal Accident']",Document Verified,2026-02-19 06:46:22.771773
+64,5f47f5f4-ace9-492b-9e82-e4634f79cb06,64,64,TLO,Area 1,['Riot'],Submitted,2026-06-22 06:46:22.771773
+65,995b339e-1946-4f27-ad1e-0b167d5b71be,65,65,Comprehensive,Area 1,['Personal Accident'],Submitted,2026-02-14 06:46:22.772791
+66,86bb950f-643a-436e-8fa5-d527b102be77,66,66,Comprehensive,Area 2,"['Flood', 'Third Party Liability', 'Personal Accident']",Policy Issued,2026-03-09 06:46:22.772791
+67,1d35f64d-9d70-48a8-abf3-cdc3447fabe3,67,67,TLO,Area 3,"['Flood', 'Earthquake', 'Personal Accident']",Rejected,2026-03-11 06:46:22.772791
+68,a2ddd0f5-ffaf-4806-9ed2-ddea30269018,68,68,Comprehensive,Area 1,"['Flood', 'Personal Accident']",Policy Issued,2025-12-28 06:46:22.772791
+69,e3dd81cb-a019-4607-99df-92e2e233adf6,69,69,Comprehensive,Area 3,['Third Party Liability'],Rejected,2025-09-13 06:46:22.772791
+70,5e1925a5-624e-4c6b-9a39-bd9711ce4196,70,70,TLO,Area 2,"['Third Party Liability', 'Personal Accident']",Policy Issued,2025-07-27 06:46:22.772791
+71,ba52a563-6e1b-490e-bdbd-8454cd3bd0bf,71,71,TLO,Area 2,['Third Party Liability'],Policy Issued,2025-08-11 06:46:22.772791
+72,41bc5aa9-3ce1-46cf-8e42-08255f1b461f,72,72,Comprehensive,Area 1,"['Flood', 'Earthquake']",Policy Issued,2025-09-04 06:46:22.772791
+73,07f75aca-1a58-4a1f-8a96-2f93041b9ffc,73,73,Comprehensive,Area 1,"['Earthquake', 'Riot', 'Personal Accident']",Underwriting,2025-07-18 06:46:22.773797
+74,5be93f5d-740d-4727-a76e-8b9fe3a9e141,74,74,Comprehensive,Area 3,"['Flood', 'Earthquake', 'Riot']",Underwriting,2026-02-27 06:46:22.773797
+75,c2d4d083-16dd-4d73-b5ef-a0e26dc9bd35,75,75,Comprehensive,Area 1,"['Flood', 'Third Party Liability']",Policy Issued,2026-01-22 06:46:22.773797
+76,26733000-759d-463f-9beb-4b942e7785cd,76,76,TLO,Area 1,"['Flood', 'Third Party Liability']",Policy Issued,2025-12-11 06:46:22.773797
+77,dce31059-6746-4241-a033-6f39ee28e5ec,77,77,Comprehensive,Area 1,"['Flood', 'Personal Accident']",Rejected,2026-07-07 06:46:22.773797
+78,41302fad-b1bd-4b1d-ac5c-6a18a123ddc9,78,78,TLO,Area 2,"['Flood', 'Earthquake', 'Third Party Liability', 'Personal Accident']",Policy Issued,2026-03-06 06:46:22.773797
+79,bc3e859c-c950-4915-a616-946cd1af12ca,79,79,Comprehensive,Area 3,['Third Party Liability'],Policy Issued,2026-06-22 06:46:22.773797
+80,ff53a84b-0680-431d-a1f3-1739edd65d5a,80,80,Comprehensive,Area 2,"['Earthquake', 'Riot']",Underwriting,2025-12-03 06:46:22.773797
+81,3683408e-50f7-407d-9bd9-b62946b49803,81,81,TLO,Area 2,['Flood'],Policy Issued,2025-11-30 06:46:22.773797
+82,6547e7ea-85a3-492f-89b7-a000460527be,82,82,TLO,Area 1,"['Flood', 'Third Party Liability', 'Personal Accident']",Rejected,2026-01-25 06:46:22.773797
+83,b11646a0-ce47-47cd-b301-8baa9996e08f,83,83,TLO,Area 1,"['Riot', 'Third Party Liability', 'Personal Accident']",Underwriting,2025-07-20 06:46:22.774794
+84,ec05427e-c468-4b07-a095-4673b042ec7a,84,84,TLO,Area 3,"['Flood', 'Earthquake', 'Riot', 'Third Party Liability']",Policy Issued,2026-05-24 06:46:22.774794
+85,3b78ae59-6900-4816-b52a-bd26fc8739e9,85,85,TLO,Area 3,"['Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-12-25 06:46:22.774794
+86,d635950b-d7f9-45cf-b22e-1215d9fe6f98,86,86,TLO,Area 1,"['Earthquake', 'Personal Accident']",Policy Issued,2026-03-19 06:46:22.774794
+87,554b7a8e-5f7d-4c0a-a16f-4bb611e66936,87,87,TLO,Area 1,"['Earthquake', 'Third Party Liability']",Rejected,2026-06-02 06:46:22.774794
+88,02913367-cde6-47f8-81c4-0185e86f0e59,88,88,Comprehensive,Area 1,"['Earthquake', 'Third Party Liability', 'Personal Accident']",Policy Issued,2026-02-28 06:46:22.774794
+89,5c423cb2-598b-41b3-b79e-fc42e18a34b7,89,89,TLO,Area 3,"['Flood', 'Riot']",Policy Issued,2025-09-03 06:46:22.775790
+90,1f1b34d0-7597-4d16-8ca2-6c886ecb0b81,90,90,Comprehensive,Area 3,['Riot'],Underwriting,2025-12-21 06:46:22.775790
+91,cea168e7-d1f7-455a-a317-8f46760884af,91,91,TLO,Area 2,"['Flood', 'Earthquake', 'Riot']",Policy Issued,2025-07-23 06:46:22.775790
+92,ec63c4a2-2b2c-469c-92fa-9eb775c0bde8,92,92,Comprehensive,Area 3,"['Earthquake', 'Riot', 'Third Party Liability']",Policy Issued,2026-04-27 06:46:22.775790
+93,37e317ec-5a7b-49db-80f4-eaf828fea5a6,93,93,TLO,Area 1,"['Flood', 'Personal Accident']",Document Verified,2026-06-27 06:46:22.775790
+94,4cb6e5d6-e790-419e-b8ec-a21199064f6c,94,94,TLO,Area 3,['Flood'],Policy Issued,2025-09-25 06:46:22.775790
+95,4f070086-17f7-485c-bb3e-dfea3947ac5e,95,95,Comprehensive,Area 1,"['Riot', 'Third Party Liability']",Policy Issued,2026-04-28 06:46:22.775790
+96,f8d6717e-4221-4484-9861-6be80f1c17cb,96,96,TLO,Area 2,"['Riot', 'Personal Accident']",Document Verified,2025-09-25 06:46:22.775790
+97,ece3ae19-dd6a-4d4f-955d-5548ae16e77b,97,97,Comprehensive,Area 1,['Earthquake'],Underwriting,2026-03-26 06:46:22.775790
+98,4a1f07d0-dfed-49f9-b4d4-908bb5e0c2a2,98,98,Comprehensive,Area 3,"['Earthquake', 'Personal Accident']",Document Verified,2025-10-12 06:46:22.775790
+99,ad81a0b8-3777-4274-a514-7ef687774902,99,99,TLO,Area 2,"['Riot', 'Personal Accident']",Rejected,2026-03-20 06:46:22.776798
+100,c48a249d-8490-46ee-8366-e284db8c14ff,100,100,Comprehensive,Area 1,[],Document Verified,2026-04-24 06:46:22.776798
+101,53dd3f3a-f0c5-4504-9098-a5bd07ae4883,101,101,Comprehensive,Area 3,"['Flood', 'Riot', 'Personal Accident']",Rejected,2025-09-21 06:46:22.776798
+102,f40f3986-57ca-4ce5-a105-f1f2646de44d,102,102,TLO,Area 1,"['Third Party Liability', 'Personal Accident']",Document Verified,2026-06-07 06:46:22.776798
+103,d9b76f2d-8c11-477a-aa1c-ab3e295674d7,103,103,TLO,Area 1,['Personal Accident'],Policy Issued,2025-12-19 06:46:22.776798
+104,631ad507-ee03-4eb4-81f9-f6fb0282aecf,104,104,TLO,Area 1,"['Flood', 'Riot', 'Personal Accident']",Policy Issued,2025-08-11 06:46:22.776798
+105,1de039d0-854c-4caa-9aa3-98a1cf0c5aeb,105,105,Comprehensive,Area 3,[],Policy Issued,2025-12-06 06:46:22.776798
+106,df33ddc9-de74-4a6f-9c42-b6a43fa26199,106,106,TLO,Area 1,['Earthquake'],Submitted,2026-02-14 06:46:22.776798
+107,049c17aa-2e3a-4899-9501-8def619bda44,107,107,TLO,Area 2,"['Flood', 'Earthquake']",Policy Issued,2025-11-09 06:46:22.776798
+108,329627e6-2cdc-4fa0-aeea-c6cb8814d67f,108,108,Comprehensive,Area 1,"['Earthquake', 'Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-11-09 06:46:22.776798
+109,d7d97844-0d54-42a5-9edb-585f6abe83e1,109,109,TLO,Area 1,"['Flood', 'Earthquake']",Underwriting,2026-02-19 06:46:22.776798
+110,9eb7b9e2-fcbf-45d9-823b-37a35f9ea89e,110,110,Comprehensive,Area 2,['Riot'],Policy Issued,2026-01-10 06:46:22.777789
+111,67c8c443-f1e0-423c-947d-8e4d0360db83,111,111,Comprehensive,Area 1,['Riot'],Policy Issued,2025-08-28 06:46:22.777789
+112,57e3d4c7-6ffe-466d-97b7-be1aea46b5ce,112,112,TLO,Area 2,"['Earthquake', 'Third Party Liability']",Policy Issued,2026-03-25 06:46:22.777789
+113,183df19a-e80d-4e92-b05a-e054a59f965b,113,113,Comprehensive,Area 2,"['Riot', 'Third Party Liability']",Policy Issued,2025-09-04 06:46:22.777789
+114,9d77658d-ae23-4f53-a614-0d097c666a02,114,114,TLO,Area 3,['Flood'],Policy Issued,2026-02-19 06:46:22.777789
+115,9c8e302b-52e2-448f-96b8-776ba9e9052b,115,115,TLO,Area 3,[],Policy Issued,2025-09-29 06:46:22.777789
+116,16febb34-aa84-46b6-853c-7b12db419191,116,116,TLO,Area 1,"['Riot', 'Third Party Liability']",Policy Issued,2025-10-19 06:46:22.777789
+117,1f1f6c3e-d814-41c6-a5fe-d84fe80305ff,117,117,TLO,Area 3,['Third Party Liability'],Policy Issued,2025-11-26 06:46:22.777789
+118,d87fe215-0358-4f89-ab41-af6a7407ab58,118,118,Comprehensive,Area 1,['Third Party Liability'],Underwriting,2026-02-15 06:46:22.777789
+119,49b15e65-91af-427e-b9ac-1c4a2819e443,119,119,Comprehensive,Area 3,['Third Party Liability'],Document Verified,2025-08-03 06:46:22.777789
+120,81a00d5c-e531-4f81-8211-3ae5ace9a171,120,120,Comprehensive,Area 3,[],Policy Issued,2026-03-17 06:46:22.777789
+121,04f9b5a9-2d4e-4063-89bd-b60d024fa4ba,121,121,TLO,Area 1,['Third Party Liability'],Rejected,2026-03-17 06:46:22.777789
+122,1f3152de-a91e-447d-8e64-d250c9461767,122,122,TLO,Area 2,['Flood'],Document Verified,2025-11-01 06:46:22.778802
+123,9c241b22-107f-4a90-bafb-4856d0bbf806,123,123,Comprehensive,Area 1,['Personal Accident'],Document Verified,2026-02-14 06:46:22.778802
+124,c159071c-5539-4141-a523-c9cb45c3237c,124,124,Comprehensive,Area 1,[],Document Verified,2026-03-11 06:46:22.778802
+125,969aa666-71e7-4ae3-85a0-f493c991fcd3,125,125,TLO,Area 2,"['Earthquake', 'Third Party Liability']",Document Verified,2026-06-26 06:46:22.778802
+126,2d4b6466-f4af-4b42-aa83-b2f8df9def0c,126,126,TLO,Area 2,"['Earthquake', 'Third Party Liability']",Policy Issued,2026-06-27 06:46:22.778802
+127,f06c3fff-fc93-470d-8cf6-3a16d83c3301,127,127,TLO,Area 3,"['Earthquake', 'Personal Accident']",Policy Issued,2026-04-12 06:46:22.778802
+128,92426a9f-e847-4f75-ae99-52f7fd244a1f,128,128,Comprehensive,Area 2,[],Policy Issued,2025-12-25 06:46:22.778802
+129,6cc20562-cee5-42f5-8427-113883df6faa,129,129,TLO,Area 3,"['Riot', 'Personal Accident']",Rejected,2025-07-07 06:46:22.778802
+130,1540b3e4-62de-4a44-b0e2-09b59d0ff604,130,130,TLO,Area 1,['Personal Accident'],Policy Issued,2026-05-23 06:46:22.778802
+131,e3101323-c782-47ab-b5d6-70768bf671d7,131,131,Comprehensive,Area 3,['Riot'],Policy Issued,2025-09-11 06:46:22.779800
+132,e5ff0f4d-6133-41d9-97c8-7550115bf650,132,132,Comprehensive,Area 1,"['Earthquake', 'Riot', 'Third Party Liability']",Rejected,2026-05-22 06:46:22.779800
+133,a0a82279-e7e2-4724-a352-ee7dd3845dda,133,133,TLO,Area 2,[],Policy Issued,2025-11-18 06:46:22.779800
+134,1732fe70-af44-47c3-9986-84e5014a2737,134,134,Comprehensive,Area 1,['Riot'],Document Verified,2025-10-14 06:46:22.779800
+135,f7af2802-b666-4c5e-aa74-68923466f27c,135,135,Comprehensive,Area 3,"['Flood', 'Third Party Liability', 'Personal Accident']",Submitted,2026-02-10 06:46:22.779800
+136,92f52d8d-96a8-46e2-a9c7-36a60c2d4f41,136,136,Comprehensive,Area 2,"['Flood', 'Earthquake', 'Third Party Liability']",Policy Issued,2026-06-03 06:46:22.779800
+137,a9782ea3-700b-49b3-ad3c-4499ddca4f5f,137,137,TLO,Area 3,"['Earthquake', 'Third Party Liability']",Policy Issued,2026-04-07 06:46:22.779800
+138,2b9fe4ce-479c-45ee-9a23-f78df6b0265a,138,138,Comprehensive,Area 3,"['Flood', 'Third Party Liability', 'Personal Accident']",Document Verified,2025-10-24 06:46:22.779800
+139,06bac88d-3795-483d-a4fb-3367b2acb7f8,139,139,TLO,Area 2,[],Policy Issued,2025-09-17 06:46:22.779800
+140,2ffd29a4-224d-4573-b6af-89ab6bed4b90,140,140,Comprehensive,Area 3,"['Riot', 'Third Party Liability']",Policy Issued,2026-06-03 06:46:22.780796
+141,7e5255d5-5f32-4271-9961-afc555eaf7e9,141,141,TLO,Area 3,['Personal Accident'],Policy Issued,2025-10-12 06:46:22.780796
+142,0490b5ad-1d88-47f2-996e-d5133470fa6e,142,142,TLO,Area 3,"['Riot', 'Personal Accident']",Policy Issued,2026-03-01 06:46:22.780796
+143,60442eb7-c0dc-4429-a7ae-c35c7dae0b94,143,143,TLO,Area 3,['Third Party Liability'],Policy Issued,2026-02-05 06:46:22.780796
+144,716f141b-902d-4103-b005-e26e2f3b5c81,144,144,Comprehensive,Area 1,['Flood'],Document Verified,2026-03-19 06:46:22.780796
+145,b139dbaa-3261-4fa3-bb26-86dacff78d42,145,145,TLO,Area 3,"['Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-12-17 06:46:22.780796
+146,bb30cc8e-d85c-4d7b-b86b-a07084d9748d,146,146,TLO,Area 1,[],Document Verified,2025-12-29 06:46:22.780796
+147,d0cb1165-c9ce-40da-b85d-307e5005e7c9,147,147,Comprehensive,Area 2,"['Third Party Liability', 'Personal Accident']",Policy Issued,2026-02-06 06:46:22.780796
+148,20bb9ebe-7c84-4f30-bd16-626f8ce31e07,148,148,TLO,Area 3,"['Earthquake', 'Riot', 'Third Party Liability']",Underwriting,2026-01-07 06:46:22.780796
+149,032f6453-0611-4767-a4a1-e1aa8fa42ee9,149,149,TLO,Area 3,"['Riot', 'Third Party Liability']",Policy Issued,2026-03-30 06:46:22.780796
+150,ecfb5386-260e-4073-baf9-df69a7bd1e22,150,150,Comprehensive,Area 3,['Third Party Liability'],Underwriting,2026-06-25 06:46:22.781787
+151,4c1858b1-03b6-4cec-a624-eb9ea94ef408,151,151,TLO,Area 2,[],Policy Issued,2025-08-23 06:46:22.781787
+152,67295b00-5449-4a74-891e-4cbc4b04a0a4,152,152,TLO,Area 1,"['Earthquake', 'Third Party Liability', 'Personal Accident']",Underwriting,2025-10-17 06:46:22.781787
+153,34d28f59-d632-436b-a99d-889fad2d73e8,153,153,TLO,Area 1,"['Flood', 'Earthquake', 'Personal Accident']",Submitted,2026-01-19 06:46:22.781787
+154,01d9d189-23d7-4de4-8c05-589f69f4c749,154,154,Comprehensive,Area 1,"['Earthquake', 'Personal Accident']",Rejected,2025-08-26 06:46:22.781787
+155,40f0a918-ed1e-4491-9a31-359518da3e09,155,155,Comprehensive,Area 3,['Third Party Liability'],Underwriting,2025-12-06 06:46:22.782307
+156,ef154f33-8c52-4abf-ae9c-6fff361962a1,156,156,Comprehensive,Area 2,"['Flood', 'Third Party Liability']",Policy Issued,2026-04-15 06:46:22.782307
+157,7363028c-7b5b-416c-870e-40905da5d542,157,157,TLO,Area 3,['Personal Accident'],Policy Issued,2026-05-10 06:46:22.782307
+158,05a37333-6528-45bb-9735-349a5b8946cf,158,158,TLO,Area 3,"['Earthquake', 'Third Party Liability', 'Personal Accident']",Submitted,2025-09-15 06:46:22.782307
+159,a79959ef-31e0-490f-a7f1-a08b3726673e,159,159,TLO,Area 1,"['Flood', 'Earthquake', 'Third Party Liability']",Policy Issued,2025-09-06 06:46:22.782307
+160,5798fa0c-86b0-430b-b479-3b111765c03d,160,160,TLO,Area 1,"['Earthquake', 'Personal Accident']",Policy Issued,2025-10-25 06:46:22.782307
+161,4e1e339b-b112-4b0e-9ffb-983999407828,161,161,Comprehensive,Area 2,"['Flood', 'Third Party Liability']",Policy Issued,2025-09-26 06:46:22.782307
+162,b0e95eca-f1a8-4460-83bf-37c71dbf1c61,162,162,TLO,Area 2,"['Flood', 'Earthquake', 'Third Party Liability', 'Personal Accident']",Document Verified,2025-12-08 06:46:22.782307
+163,5075aee2-23cf-4ac7-b228-2857cb579abd,163,163,Comprehensive,Area 1,[],Policy Issued,2026-01-28 06:46:22.782307
+164,cf2ed634-0f0e-4875-8d0a-84a0f38dc671,164,164,TLO,Area 1,['Personal Accident'],Policy Issued,2025-12-30 06:46:22.782307
+165,e466175e-d9f3-4885-9446-cf63e766b7a5,165,165,TLO,Area 1,"['Earthquake', 'Third Party Liability']",Document Verified,2025-11-29 06:46:22.783334
+166,558093ce-7398-4d09-8dc3-5b3c5ebd591e,166,166,TLO,Area 3,[],Policy Issued,2026-05-26 06:46:22.783334
+167,6d3b9dbf-a39d-44f2-a05e-c527bc82fa35,167,167,Comprehensive,Area 1,"['Earthquake', 'Personal Accident']",Document Verified,2026-06-11 06:46:22.783334
+168,a27cff2d-401d-4226-bc8c-f71611720989,168,168,TLO,Area 2,"['Riot', 'Personal Accident']",Submitted,2025-07-31 06:46:22.783334
+169,1786dd53-5baf-4f69-9e28-063ee91da610,169,169,Comprehensive,Area 1,['Earthquake'],Policy Issued,2025-08-27 06:46:22.783334
+170,4ab20183-de61-4a19-bd91-c3bdf8c88035,170,170,TLO,Area 1,"['Flood', 'Earthquake', 'Riot', 'Third Party Liability']",Submitted,2025-09-07 06:46:22.783334
+171,fffa321b-3db8-48e5-83ed-b9bc1c81277c,171,171,TLO,Area 3,['Flood'],Underwriting,2026-04-18 06:46:22.783334
+172,d1fae64e-63ea-4981-8562-77407437adce,172,172,TLO,Area 2,"['Flood', 'Third Party Liability']",Rejected,2025-08-01 06:46:22.783334
+173,4aa6b265-41c5-480c-898e-66a1f39aeb90,173,173,TLO,Area 3,"['Riot', 'Personal Accident']",Document Verified,2025-12-05 06:46:22.783334
+174,d673cf47-e80b-41da-9791-eed9882bfb18,174,174,Comprehensive,Area 3,['Earthquake'],Policy Issued,2025-07-12 06:46:22.783334
+175,e967dcbf-79d8-4fac-8bcc-2232994b2d3a,175,175,Comprehensive,Area 3,[],Document Verified,2026-05-31 06:46:22.783334
+176,aed47a53-587f-4316-b6cd-628b80ee7a08,176,176,TLO,Area 3,[],Underwriting,2025-07-09 06:46:22.783334
+177,2adc143b-7327-4daf-9b19-e82d43bf2d3f,177,177,Comprehensive,Area 3,[],Document Verified,2026-02-28 06:46:22.784333
+178,ab4e881a-d5fc-478f-9015-c81a48fa625c,178,178,TLO,Area 3,"['Flood', 'Riot', 'Third Party Liability', 'Personal Accident']",Underwriting,2026-04-30 06:46:22.784333
+179,06bcf38c-d4ed-47c1-96bc-c24f81f0f10e,179,179,Comprehensive,Area 2,"['Flood', 'Earthquake', 'Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2026-07-04 06:46:22.784333
+180,29405416-3be1-4f01-8f2b-fb9640be35ea,180,180,Comprehensive,Area 3,['Third Party Liability'],Policy Issued,2026-04-27 06:46:22.784333
+181,f27d2e78-6f54-424a-91ea-1ae1380d1630,181,181,Comprehensive,Area 1,"['Earthquake', 'Riot', 'Third Party Liability']",Document Verified,2025-08-18 06:46:22.784333
+182,b86a3535-bedc-4912-b1e7-8b8f3fc8132c,182,182,Comprehensive,Area 3,['Personal Accident'],Underwriting,2026-03-21 06:46:22.784333
+183,823c984b-9fcb-48b3-b2d3-f998afe1e521,183,183,Comprehensive,Area 2,"['Flood', 'Earthquake', 'Riot']",Document Verified,2025-11-27 06:46:22.784333
+184,13585a8f-d7ac-4422-a870-e92202f384a2,184,184,TLO,Area 1,"['Flood', 'Riot']",Policy Issued,2026-06-15 06:46:22.784333
+185,ba32710e-fdea-48eb-9c8e-fb00a81dbfbd,185,185,TLO,Area 2,"['Riot', 'Personal Accident']",Underwriting,2025-11-12 06:46:22.784333
+186,5a148921-c8fb-49a1-9957-6e17e77470a5,186,186,TLO,Area 2,[],Policy Issued,2025-08-08 06:46:22.784333
+187,077b8a32-d6de-4ad9-bb6a-fee8f5dc5419,187,187,Comprehensive,Area 2,"['Flood', 'Earthquake']",Policy Issued,2026-06-17 06:46:22.784333
+188,726ae5a2-13d9-4fe9-9c98-b663f05ee955,188,188,TLO,Area 2,['Flood'],Document Verified,2025-10-06 06:46:22.785332
+189,fba1d147-630f-45d1-aae6-c13a392af17f,189,189,TLO,Area 3,"['Third Party Liability', 'Personal Accident']",Policy Issued,2025-09-03 06:46:22.785332
+190,2683279a-8d54-439b-ae93-a4d8e12b7332,190,190,Comprehensive,Area 3,['Personal Accident'],Rejected,2025-12-20 06:46:22.785332
+191,961be86b-a596-432b-9c36-bd1bf13cf855,191,191,Comprehensive,Area 1,['Third Party Liability'],Policy Issued,2025-11-04 06:46:22.785332
+192,ccfb4d5d-9fe2-4d52-ba5e-d3ede6cf277a,192,192,TLO,Area 3,"['Earthquake', 'Third Party Liability', 'Personal Accident']",Submitted,2026-04-16 06:46:22.785332
+193,ab541d29-1f1d-475c-b361-759c9e731b64,193,193,Comprehensive,Area 2,['Third Party Liability'],Policy Issued,2026-05-29 06:46:22.785332
+194,68fa8f1c-fd29-4579-abe5-520652a82c70,194,194,TLO,Area 2,"['Flood', 'Earthquake', 'Personal Accident']",Policy Issued,2026-04-07 06:46:22.785332
+195,810215c0-83fd-4932-acf9-62b496fdcfe8,195,195,Comprehensive,Area 2,"['Riot', 'Third Party Liability']",Document Verified,2025-11-03 06:46:22.785332
+196,b1c9e8fc-f115-4aed-872d-ee822fd0e4bd,196,196,Comprehensive,Area 1,['Riot'],Rejected,2025-10-01 06:46:22.785332
+197,351849f2-8f3f-4b75-8155-b7e43e932b84,197,197,Comprehensive,Area 2,"['Flood', 'Earthquake', 'Third Party Liability', 'Personal Accident']",Policy Issued,2026-04-15 06:46:22.785332
+198,78bebdd8-2c0c-48d7-b135-81a6f1f221ce,198,198,TLO,Area 1,"['Earthquake', 'Personal Accident']",Document Verified,2026-06-22 06:46:22.785332
+199,e180728f-729b-4a5d-82c4-ff28808beeb2,199,199,Comprehensive,Area 3,"['Earthquake', 'Personal Accident']",Underwriting,2026-04-13 06:46:22.785332
+200,00407184-4832-45dc-aec7-aaaa46d7ba9e,200,200,Comprehensive,Area 2,"['Earthquake', 'Riot', 'Personal Accident']",Document Verified,2025-08-05 06:46:22.786334
+201,dd3b4939-0651-4c22-bd6c-46d906d6bd61,201,201,Comprehensive,Area 1,['Flood'],Policy Issued,2026-06-19 06:46:22.786334
+202,40e65523-cce2-4adf-a8a2-f3b63ecb8b81,202,202,TLO,Area 3,"['Riot', 'Third Party Liability']",Policy Issued,2026-07-04 06:46:22.786334
+203,6a9b0e7b-a54b-438a-801c-24e0c6ffeb18,203,203,Comprehensive,Area 2,"['Flood', 'Riot']",Policy Issued,2025-09-07 06:46:22.786334
+204,60126d1c-d465-4767-beb5-0774d9f42f94,204,204,Comprehensive,Area 2,"['Earthquake', 'Riot']",Document Verified,2025-08-15 06:46:22.786334
+205,8808d54a-fb6a-48c4-872d-ae94fc82d4f0,205,205,TLO,Area 2,"['Earthquake', 'Third Party Liability']",Underwriting,2025-08-01 06:46:22.786334
+206,4e387738-cc0e-438e-931c-e795a0a0a2e5,206,206,TLO,Area 1,[],Policy Issued,2026-05-30 06:46:22.786334
+207,d0b852a7-6c8d-4437-ad62-65ba12240ff4,207,207,TLO,Area 2,['Riot'],Policy Issued,2026-01-21 06:46:22.786334
+208,eb84d1a1-c667-44c1-85d4-db1b09ff13ce,208,208,Comprehensive,Area 2,[],Document Verified,2026-05-20 06:46:22.786334
+209,6dad63b2-0e5e-4cf5-b27e-d560bb8a593b,209,209,Comprehensive,Area 1,['Flood'],Policy Issued,2026-03-11 06:46:22.786334
+210,ee710b00-1c9a-48bd-ac85-9e3c24d31e16,210,210,TLO,Area 1,"['Earthquake', 'Riot', 'Third Party Liability']",Submitted,2025-09-28 06:46:22.786334
+211,4cf58170-583b-4c33-bc4b-59eb72eebd50,211,211,Comprehensive,Area 3,"['Riot', 'Personal Accident']",Rejected,2025-08-05 06:46:22.786334
+212,3d8bd506-ea15-4fd3-b299-37f22a41e6d9,212,212,TLO,Area 3,"['Flood', 'Third Party Liability']",Underwriting,2026-06-16 06:46:22.787333
+213,d8304c7f-80df-4157-b04b-e4f9c8a077e8,213,213,Comprehensive,Area 1,[],Policy Issued,2026-05-27 06:46:22.787333
+214,e98e1fc9-3b02-4e75-8fb3-5c7b9801f6a9,214,214,TLO,Area 1,"['Earthquake', 'Riot', 'Personal Accident']",Underwriting,2026-03-18 06:46:22.787333
+215,d1714c12-d78e-45e8-9b21-08152127cf4d,215,215,TLO,Area 2,"['Earthquake', 'Riot', 'Third Party Liability']",Policy Issued,2026-07-05 06:46:22.787333
+216,e62b109f-61d7-499d-a5e4-7fead0adb2be,216,216,Comprehensive,Area 2,"['Flood', 'Riot', 'Third Party Liability']",Rejected,2026-06-07 06:46:22.787333
+217,83499edc-69de-4869-b7b2-e63aca6bd212,217,217,TLO,Area 2,['Riot'],Policy Issued,2025-09-14 06:46:22.787333
+218,fb78e99f-4451-4369-b59b-0d4c3d8a89bc,218,218,TLO,Area 3,['Earthquake'],Underwriting,2026-07-07 06:46:22.787333
+219,46ccf5de-7c3b-4139-a1a4-c54b35554439,219,219,Comprehensive,Area 1,[],Policy Issued,2025-07-29 06:46:22.787333
+220,0a9b67a1-9810-4afe-ae49-7900b780acf6,220,220,TLO,Area 1,['Flood'],Document Verified,2026-04-30 06:46:22.787333
+221,1a02dfcf-6e37-460d-9e2d-cca546e0df7e,221,221,Comprehensive,Area 2,[],Policy Issued,2025-12-08 06:46:22.787333
+222,3752ed94-0515-4b7c-b93c-2591dac2189b,222,222,TLO,Area 1,"['Riot', 'Third Party Liability', 'Personal Accident']",Document Verified,2025-12-09 06:46:22.787333
+223,680cbe63-0f30-4e23-897d-6eba793f2725,223,223,TLO,Area 1,"['Riot', 'Third Party Liability']",Underwriting,2026-01-08 06:46:22.787333
+224,134cc402-350d-43db-9fb4-1c13f7947bde,224,224,Comprehensive,Area 1,"['Flood', 'Earthquake']",Document Verified,2026-02-28 06:46:22.788331
+225,8dc4afda-06e3-4d83-a2d9-d2c5e01a5bf1,225,225,TLO,Area 3,['Riot'],Submitted,2026-03-25 06:46:22.788331
+226,0c326c9f-a6c2-4212-a942-49918e2d912f,226,226,Comprehensive,Area 3,['Flood'],Policy Issued,2025-09-10 06:46:22.788331
+227,0a3c1ab4-2241-408e-b96b-4a2f347f0796,227,227,TLO,Area 2,"['Third Party Liability', 'Personal Accident']",Policy Issued,2026-02-19 06:46:22.788331
+228,b897b44f-4f5b-4fca-a8f7-d2b842d4cf3f,228,228,Comprehensive,Area 3,['Earthquake'],Document Verified,2025-09-28 06:46:22.788331
+229,39a9d9fc-521f-4bc5-b34f-99254dcc63db,229,229,TLO,Area 3,"['Flood', 'Riot', 'Personal Accident']",Policy Issued,2025-08-04 06:46:22.788331
+230,ab85ddb9-04dd-455e-b383-bbf30ef17a3c,230,230,TLO,Area 3,['Third Party Liability'],Policy Issued,2026-02-28 06:46:22.788331
+231,6a3873af-1a6f-478f-81d7-d11b6040b8f3,231,231,Comprehensive,Area 2,"['Flood', 'Earthquake', 'Personal Accident']",Policy Issued,2025-08-20 06:46:22.788331
+232,4f230fd1-f8e8-4979-a32b-b0d69aa88d8f,232,232,TLO,Area 1,"['Third Party Liability', 'Personal Accident']",Policy Issued,2025-09-20 06:46:22.788331
+233,37172754-4331-43e1-8f04-7b9449d18917,233,233,TLO,Area 1,"['Riot', 'Third Party Liability']",Underwriting,2025-09-10 06:46:22.788331
+234,2a904ace-9b4b-4931-9207-cc24dcb952a2,234,234,TLO,Area 2,['Earthquake'],Document Verified,2025-08-22 06:46:22.789327
+235,d7e287c9-0044-4e5c-8672-ad458d59fd93,235,235,TLO,Area 3,[],Document Verified,2025-10-28 06:46:22.789327
+236,6d2398a1-b94a-404c-b415-dba5a1ff3982,236,236,TLO,Area 1,['Flood'],Document Verified,2026-06-15 06:46:22.789327
+237,f7111594-3a2f-4fef-b612-0bf4cc9f60ea,237,237,TLO,Area 2,"['Earthquake', 'Third Party Liability', 'Personal Accident']",Document Verified,2026-04-29 06:46:22.789327
+238,07194f38-91e2-4cf5-ae1a-6114be9cea21,238,238,Comprehensive,Area 3,[],Document Verified,2026-02-14 06:46:22.789327
+239,63c5a873-5194-4642-af8e-d262f09b0f90,239,239,Comprehensive,Area 3,"['Flood', 'Earthquake', 'Third Party Liability']",Rejected,2026-03-01 06:46:22.789327
+240,c388680c-9be7-46c3-8c7b-3b3c9b07ea5b,240,240,Comprehensive,Area 1,"['Riot', 'Personal Accident']",Policy Issued,2025-08-05 06:46:22.789327
+241,a200b07f-7d98-4f98-a3b1-395ae9590bd7,241,241,TLO,Area 1,"['Flood', 'Earthquake', 'Third Party Liability', 'Personal Accident']",Policy Issued,2026-05-17 06:46:22.789327
+242,436ff30f-836e-4f8e-a756-f5eedf7bf0f4,242,242,TLO,Area 3,['Earthquake'],Submitted,2025-11-18 06:46:22.789327
+243,d0023077-55b0-4fcf-ae2c-e21793c42296,243,243,Comprehensive,Area 3,"['Earthquake', 'Riot', 'Personal Accident']",Policy Issued,2026-04-10 06:46:22.789327
+244,ecb7909f-f261-4180-8a7b-4b739c20a7cd,244,244,TLO,Area 3,['Third Party Liability'],Policy Issued,2025-11-14 06:46:22.790331
+245,7e03369b-ce44-4f7a-9fed-b1b096babb34,245,245,TLO,Area 3,"['Third Party Liability', 'Personal Accident']",Submitted,2025-08-20 06:46:22.790331
+246,890599e1-7465-4281-8896-73733d0345bb,246,246,Comprehensive,Area 1,"['Flood', 'Earthquake', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-11-07 06:46:22.790331
+247,754ac0a6-0097-4e4f-ba46-f49e752f874d,247,247,Comprehensive,Area 1,['Third Party Liability'],Underwriting,2026-04-18 06:46:22.790331
+248,841f3653-6d69-4be3-a1da-7eb438413277,248,248,TLO,Area 3,['Third Party Liability'],Document Verified,2025-11-18 06:46:22.790331
+249,b9a20e6d-74d5-491b-9119-5634aeaf25d1,249,249,TLO,Area 2,"['Flood', 'Third Party Liability']",Document Verified,2026-02-15 06:46:22.790331
+250,32054c3c-2866-42dd-bb00-910c0d571654,250,250,TLO,Area 3,"['Earthquake', 'Riot', 'Third Party Liability']",Underwriting,2025-12-27 06:46:22.790331
+251,63b78808-0db3-4a4e-84af-fd863ed9ab13,251,251,Comprehensive,Area 3,['Third Party Liability'],Policy Issued,2026-03-12 06:46:22.790331
+252,f5fc992a-4587-48cb-b099-4003186acda2,252,252,Comprehensive,Area 1,['Earthquake'],Policy Issued,2026-06-10 06:46:22.790331
+253,5bde0b00-f7f3-47d8-a2c6-41f9cf9c4c82,253,253,Comprehensive,Area 1,['Third Party Liability'],Policy Issued,2026-03-06 06:46:22.790331
+254,2b70d241-6807-4d87-9105-8c4487208484,254,254,Comprehensive,Area 1,[],Policy Issued,2026-06-15 06:46:22.790331
+255,317d59a4-1802-4948-b0f3-f4c930e8df00,255,255,Comprehensive,Area 1,"['Flood', 'Riot']",Policy Issued,2025-08-22 06:46:22.790331
+256,31afe1f7-9b7e-491a-9879-6abfef05209c,256,256,TLO,Area 3,['Third Party Liability'],Policy Issued,2026-01-16 06:46:22.791332
+257,b7d22f89-db42-4611-9104-8c3d99ede78f,257,257,Comprehensive,Area 2,"['Flood', 'Earthquake', 'Riot', 'Third Party Liability', 'Personal Accident']",Submitted,2026-05-26 06:46:22.791332
+258,d1d12992-7277-4990-9673-83e3c75a17c1,258,258,Comprehensive,Area 1,"['Flood', 'Earthquake']",Underwriting,2025-11-25 06:46:22.791332
+259,87183ad1-e20d-4171-a883-33fa13583dc7,259,259,Comprehensive,Area 1,"['Riot', 'Third Party Liability']",Policy Issued,2026-01-08 06:46:22.791332
+260,e9473341-9619-4487-af5b-ce1e9943b2d5,260,260,Comprehensive,Area 1,"['Flood', 'Earthquake']",Underwriting,2026-05-25 06:46:22.791332
+261,df0fdee9-c9aa-4ce7-8521-60e51c4149ca,261,261,Comprehensive,Area 1,['Earthquake'],Policy Issued,2026-04-21 06:46:22.791332
+262,e6b2e516-edda-4a7d-b542-a9b932dfedab,262,262,TLO,Area 3,"['Flood', 'Riot']",Document Verified,2025-11-10 06:46:22.791332
+263,a7e99ce2-a1e5-49a3-9765-94254a106f2b,263,263,TLO,Area 2,[],Submitted,2026-05-23 06:46:22.791332
+264,ddb5aebf-65ee-4805-8e4a-961331bfe989,264,264,Comprehensive,Area 3,[],Underwriting,2026-02-20 06:46:22.791332
+265,abc74e48-967a-4aa5-88e2-103cf5c45657,265,265,TLO,Area 3,['Flood'],Policy Issued,2026-06-16 06:46:22.791332
+266,809d31e6-9585-45f8-b2b6-7f70cd179e06,266,266,TLO,Area 1,[],Policy Issued,2025-08-25 06:46:22.791332
+267,74c7c979-7f8c-4482-bb2e-1cbd3e71bd51,267,267,Comprehensive,Area 2,"['Flood', 'Earthquake', 'Riot', 'Third Party Liability', 'Personal Accident']",Underwriting,2026-05-04 06:46:22.791332
+268,0537917d-8bf3-4c6d-adb7-4febe5c9688d,268,268,Comprehensive,Area 1,['Personal Accident'],Submitted,2025-09-26 06:46:22.791332
+269,326894bd-7174-44a4-8515-53c22d2a67f0,269,269,TLO,Area 1,"['Flood', 'Riot', 'Third Party Liability']",Policy Issued,2025-10-25 06:46:22.791332
+270,f519fd8e-e6fb-44af-b4d0-4886fa39e507,270,270,TLO,Area 3,['Riot'],Policy Issued,2026-02-20 06:46:22.791332
+271,a8fdf4b4-bd2a-46a8-b9ef-25b82731d5b8,271,271,TLO,Area 3,"['Flood', 'Third Party Liability', 'Personal Accident']",Document Verified,2025-12-11 06:46:22.791332
+272,86941e56-f102-4010-9769-b2297394b05f,272,272,TLO,Area 3,"['Earthquake', 'Riot', 'Personal Accident']",Underwriting,2026-03-20 06:46:22.791332
+273,46ee8fb2-4224-4ece-96e6-c64ac7f05043,273,273,TLO,Area 3,['Flood'],Document Verified,2026-04-18 06:46:22.792858
+274,0aedc645-933a-421d-9644-61955f9c3f10,274,274,Comprehensive,Area 2,"['Flood', 'Earthquake', 'Riot']",Underwriting,2025-07-27 06:46:22.792858
+275,95a3acce-9ccb-484f-884c-5cd5a2c023aa,275,275,Comprehensive,Area 3,"['Third Party Liability', 'Personal Accident']",Underwriting,2025-11-09 06:46:22.792858
+276,1e274cbc-2e13-4e0c-8146-4e75376f4748,276,276,Comprehensive,Area 1,['Personal Accident'],Underwriting,2026-03-14 06:46:22.792858
+277,1ea98b07-8c88-4eb8-bb21-6444589397c3,277,277,TLO,Area 3,['Personal Accident'],Policy Issued,2026-04-30 06:46:22.792858
+278,c3a4aed5-1628-4374-9f3b-fe566430c88b,278,278,Comprehensive,Area 2,"['Flood', 'Riot', 'Personal Accident']",Policy Issued,2026-02-08 06:46:22.792858
+279,2d9a8623-b078-4039-8eb4-4aba74f5e80b,279,279,TLO,Area 3,"['Flood', 'Riot', 'Personal Accident']",Document Verified,2025-09-10 06:46:22.792858
+280,f1d04728-d1a1-4aef-9855-d7be66552c62,280,280,Comprehensive,Area 3,['Flood'],Underwriting,2025-07-08 06:46:22.792858
+281,44133336-67d2-4259-a511-9d0803ebc8c2,281,281,Comprehensive,Area 2,"['Earthquake', 'Riot']",Policy Issued,2026-03-06 06:46:22.792858
+282,f3fa5209-5981-4157-926f-408c2438439a,282,282,Comprehensive,Area 3,[],Policy Issued,2026-06-17 06:46:22.792858
+283,c8bd1354-6408-43e1-afbc-1f28668251de,283,283,TLO,Area 2,"['Flood', 'Earthquake', 'Riot', 'Third Party Liability']",Policy Issued,2026-01-21 06:46:22.792858
+284,80ff0b09-bc70-4fbd-889b-7307cbf8f9dc,284,284,Comprehensive,Area 2,"['Earthquake', 'Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2026-07-02 06:46:22.793884
+285,f17e6dbe-2c9f-4f87-95d2-db15398cef4d,285,285,TLO,Area 3,['Riot'],Policy Issued,2026-05-11 06:46:22.793884
+286,ff294b01-0b49-461f-8e20-b2beff352eef,286,286,TLO,Area 1,"['Flood', 'Third Party Liability']",Policy Issued,2026-02-22 06:46:22.793884
+287,e19a6bda-2046-496d-a23b-f93ab527050a,287,287,Comprehensive,Area 1,"['Flood', 'Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-12-19 06:46:22.793884
+288,788ae4f1-650e-4f8d-bf56-0a8b0d22e220,288,288,Comprehensive,Area 2,['Flood'],Underwriting,2025-10-11 06:46:22.793884
+289,3315f48c-2727-43f6-973b-8f61e4e11610,289,289,TLO,Area 3,[],Rejected,2026-06-24 06:46:22.793884
+290,c3035709-3ddf-484e-9f57-29de90ee7f98,290,290,Comprehensive,Area 1,"['Flood', 'Third Party Liability', 'Personal Accident']",Policy Issued,2026-05-31 06:46:22.793884
+291,a692d8d3-2c56-4e58-8102-35afd05e5280,291,291,TLO,Area 2,[],Document Verified,2026-05-02 06:46:22.793884
+292,b1417e23-337a-4725-b999-a675bbd2fcf5,292,292,TLO,Area 2,"['Earthquake', 'Riot', 'Personal Accident']",Policy Issued,2026-03-08 06:46:22.793884
+293,bca616e2-72ab-4535-8f29-826021778bce,293,293,Comprehensive,Area 2,"['Riot', 'Personal Accident']",Policy Issued,2026-05-03 06:46:22.793884
+294,c79dab2a-59bd-470e-919d-bbb76c05fdc1,294,294,Comprehensive,Area 1,"['Flood', 'Earthquake', 'Riot', 'Third Party Liability']",Policy Issued,2026-01-04 06:46:22.793884
+295,bcd7dc67-af75-4f50-a7e9-ef7f1cdd299b,295,295,TLO,Area 3,"['Flood', 'Riot']",Underwriting,2026-05-31 06:46:22.793884
+296,f9fd6280-867d-465b-aba5-6529a8a250d5,296,296,TLO,Area 1,"['Flood', 'Personal Accident']",Underwriting,2026-06-11 06:46:22.793884
+297,b17a5446-fb4d-423f-85f8-eb20a284a3ce,297,297,TLO,Area 1,['Personal Accident'],Policy Issued,2025-09-23 06:46:22.794881
+298,aa1ad802-ac9c-4dfe-aaec-bd2ce0be6345,298,298,Comprehensive,Area 2,['Personal Accident'],Rejected,2026-05-09 06:46:22.794881
+299,c4e558ca-3741-4126-968d-2e43e924a88c,299,299,TLO,Area 2,['Flood'],Document Verified,2026-03-08 06:46:22.794881
+300,ca6ecea5-8213-4463-be67-ebc279f1489d,300,300,Comprehensive,Area 3,"['Flood', 'Riot']",Policy Issued,2025-08-11 06:46:22.794881
+301,55c54d1f-2815-4118-8824-d7abc0c78a39,301,301,Comprehensive,Area 1,"['Flood', 'Riot', 'Personal Accident']",Underwriting,2025-10-21 06:46:22.795526
+302,6a3e77e0-a44a-4ed7-a744-d4906ae0dcca,302,302,Comprehensive,Area 1,"['Earthquake', 'Riot']",Underwriting,2025-07-07 06:46:22.795526
+303,d7122ba8-8dd0-48bb-b72b-a7da9dccf109,303,303,TLO,Area 3,"['Flood', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-08-22 06:46:22.795526
+304,1bb68ce8-42e4-4655-8efe-7b9f2ec0358d,304,304,TLO,Area 3,['Earthquake'],Policy Issued,2026-05-23 06:46:22.795526
+305,af969b64-67e1-4aa8-9cae-ccbd5f4201ce,305,305,Comprehensive,Area 2,['Personal Accident'],Policy Issued,2026-04-23 06:46:22.795526
+306,51e6372a-5558-486b-ae1e-1bd611da228b,306,306,Comprehensive,Area 2,[],Underwriting,2026-04-09 06:46:22.795526
+307,2d748466-3feb-4443-a72c-9384ab0fced0,307,307,TLO,Area 3,"['Earthquake', 'Riot', 'Personal Accident']",Policy Issued,2025-12-13 06:46:22.795526
+308,3a6b81ec-0e55-4085-9e6f-5360594fb8fc,308,308,Comprehensive,Area 2,['Flood'],Policy Issued,2025-12-16 06:46:22.795526
+309,d2276e79-ffcf-408b-ad6f-bbf717cb1a2f,309,309,Comprehensive,Area 3,['Riot'],Rejected,2026-01-30 06:46:22.795526
+310,c88a7e87-4f9a-4f12-823a-5194cb8318dd,310,310,TLO,Area 3,"['Flood', 'Personal Accident']",Policy Issued,2025-08-09 06:46:22.796545
+311,2195cc6d-b2f4-4136-8bf0-72de769b626c,311,311,TLO,Area 2,"['Flood', 'Riot', 'Third Party Liability', 'Personal Accident']",Document Verified,2026-07-06 06:46:22.796545
+312,9d8c2409-7359-4b6a-b96f-d092b9a69df9,312,312,TLO,Area 2,"['Flood', 'Earthquake', 'Personal Accident']",Policy Issued,2026-01-14 06:46:22.796545
+313,d58c3134-bd66-4aca-9e97-f96800f9ee41,313,313,Comprehensive,Area 1,"['Flood', 'Earthquake', 'Third Party Liability']",Submitted,2025-11-27 06:46:22.796545
+314,6b37a39e-a289-48a4-a211-d1f279194835,314,314,Comprehensive,Area 3,[],Rejected,2026-06-30 06:46:22.796545
+315,10086f83-1876-4ee2-97f8-3361e7b52d87,315,315,TLO,Area 3,"['Flood', 'Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-09-18 06:46:22.796545
+316,5203ea82-5639-42d2-a556-b2cab400fd18,316,316,Comprehensive,Area 2,"['Flood', 'Riot', 'Third Party Liability']",Underwriting,2026-03-06 06:46:22.796545
+317,d6f9888e-bbf4-4356-a2c2-59cc1929adf0,317,317,Comprehensive,Area 2,"['Flood', 'Earthquake', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-11-05 06:46:22.796545
+318,8aa9da88-f2a3-4163-8d59-a4ee496f5a0d,318,318,TLO,Area 3,"['Earthquake', 'Personal Accident']",Policy Issued,2026-06-05 06:46:22.796545
+319,d6ba43e5-9722-46e2-9560-f2aeecb9ad8c,319,319,Comprehensive,Area 2,['Earthquake'],Policy Issued,2025-08-28 06:46:22.796545
+320,cbeb43bd-5518-4d97-9602-9d4eecc57185,320,320,TLO,Area 3,"['Flood', 'Earthquake']",Underwriting,2026-05-27 06:46:22.797549
+321,83df5bc6-78be-4744-8ae7-5c5f5c5eb0ed,321,321,Comprehensive,Area 1,"['Earthquake', 'Personal Accident']",Underwriting,2025-09-12 06:46:22.797549
+322,3a2847a8-9674-4461-b671-87ed083336bf,322,322,TLO,Area 2,[],Policy Issued,2026-06-29 06:46:22.797549
+323,7cc15bdf-2340-4bef-877a-91167d1a3cc8,323,323,Comprehensive,Area 3,['Personal Accident'],Policy Issued,2025-12-13 06:46:22.797549
+324,700a762c-2e5c-4c31-8591-1113a3503775,324,324,TLO,Area 2,['Personal Accident'],Policy Issued,2025-08-21 06:46:22.797549
+325,9a104c4f-abad-40e5-a5f6-196e2afe3251,325,325,Comprehensive,Area 1,"['Flood', 'Earthquake', 'Riot', 'Personal Accident']",Policy Issued,2026-02-23 06:46:22.797549
+326,ee944fee-dc4f-4ee1-847c-4e762a62e3e0,326,326,TLO,Area 1,"['Flood', 'Earthquake', 'Third Party Liability']",Submitted,2026-03-11 06:46:22.797549
+327,76ff88af-61fe-4840-b362-034664ca86a3,327,327,TLO,Area 1,"['Earthquake', 'Third Party Liability']",Submitted,2026-05-13 06:46:22.797549
+328,916c5f6c-2d76-4292-b5f4-541a93da5b97,328,328,Comprehensive,Area 2,"['Flood', 'Third Party Liability', 'Personal Accident']",Policy Issued,2026-05-28 06:46:22.797549
+329,9c1d2f1a-4899-4ce5-b0eb-166decacb94a,329,329,TLO,Area 1,['Riot'],Rejected,2026-05-01 06:46:22.797549
+330,d421e499-6ec5-4ff2-b0a7-a5fe5a3f0268,330,330,TLO,Area 2,['Earthquake'],Policy Issued,2026-01-31 06:46:22.797549
+331,ad9f2df7-e42b-4980-8bb1-52197d84e602,331,331,TLO,Area 3,"['Earthquake', 'Riot']",Underwriting,2026-02-07 06:46:22.797549
+332,9d315f17-8093-4df8-9afc-e62c4229df83,332,332,Comprehensive,Area 3,"['Flood', 'Third Party Liability']",Policy Issued,2025-07-23 06:46:22.798545
+333,dfc94d89-4b0f-407a-aad0-d37390e4fd30,333,333,TLO,Area 1,[],Underwriting,2025-07-31 06:46:22.798545
+334,b4fc7ca8-3a0c-4b80-a97a-3eba35da7462,334,334,Comprehensive,Area 3,"['Flood', 'Riot', 'Personal Accident']",Policy Issued,2026-05-16 06:46:22.798545
+335,6fafb829-0ee6-460e-839d-d1b659615e79,335,335,TLO,Area 3,['Earthquake'],Rejected,2025-07-21 06:46:22.798545
+336,b7a5c40e-e784-4d90-a75c-1b94f7c1e459,336,336,Comprehensive,Area 1,"['Riot', 'Third Party Liability']",Rejected,2025-10-17 06:46:22.798545
+337,0f648fb1-ec62-4921-b039-2214b4fe0067,337,337,Comprehensive,Area 3,"['Flood', 'Personal Accident']",Document Verified,2025-10-28 06:46:22.798545
+338,be321fcb-3c56-4569-82a0-d8644515eca5,338,338,TLO,Area 2,"['Earthquake', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-11-05 06:46:22.798545
+339,4bbb29d2-ee77-49a8-a4b8-f964d0376cf1,339,339,Comprehensive,Area 1,"['Earthquake', 'Personal Accident']",Policy Issued,2026-06-30 06:46:22.798545
+340,c72e088d-4df5-44db-b636-ed04059f8e80,340,340,TLO,Area 2,['Third Party Liability'],Underwriting,2026-01-21 06:46:22.798545
+341,222d34b2-1e01-42b2-8dda-6171d1baad37,341,341,TLO,Area 3,"['Riot', 'Personal Accident']",Rejected,2026-05-15 06:46:22.798545
+342,9c1438ca-5acf-4d5a-9c01-325d48060422,342,342,Comprehensive,Area 3,"['Third Party Liability', 'Personal Accident']",Rejected,2025-09-18 06:46:22.798545
+343,8a7ae184-7bef-4326-bede-07d2770f2c4b,343,343,TLO,Area 2,"['Earthquake', 'Riot', 'Third Party Liability']",Document Verified,2026-03-09 06:46:22.798545
+344,4b52fcdf-2837-4a8a-ac2c-e0a8813eb24e,344,344,Comprehensive,Area 3,[],Policy Issued,2026-01-19 06:46:22.799547
+345,0aef69b5-64f4-4880-a859-a6f162343e6b,345,345,TLO,Area 1,"['Flood', 'Earthquake', 'Third Party Liability']",Policy Issued,2025-10-21 06:46:22.799547
+346,039a7c01-aaa5-4e36-9213-1b0d80682323,346,346,Comprehensive,Area 3,['Third Party Liability'],Policy Issued,2025-08-10 06:46:22.799547
+347,a61fb8df-adf8-443f-8f8c-690569b78d0d,347,347,Comprehensive,Area 3,"['Third Party Liability', 'Personal Accident']",Submitted,2025-07-17 06:46:22.799547
+348,eee641c8-6235-4dd5-a175-5bf2f427c2a3,348,348,TLO,Area 2,['Earthquake'],Rejected,2026-03-29 06:46:22.799547
+349,955b7862-e767-4da0-a2c3-5710f3be0f9c,349,349,Comprehensive,Area 1,"['Flood', 'Riot']",Policy Issued,2025-08-27 06:46:22.799547
+350,97500e4b-bc46-48e5-9d82-3a75db2d25b1,350,350,Comprehensive,Area 2,['Earthquake'],Submitted,2025-08-22 06:46:22.799547
+351,3fd2537d-5f2f-4cf1-929c-536911cd06aa,351,351,Comprehensive,Area 2,"['Riot', 'Third Party Liability']",Policy Issued,2025-10-28 06:46:22.799547
+352,67b59696-8a39-47cd-9216-bba75c0e2096,352,352,Comprehensive,Area 2,[],Policy Issued,2025-07-23 06:46:22.799547
+353,24becb89-cd04-4ea8-8845-db463f895ba1,353,353,TLO,Area 2,['Personal Accident'],Rejected,2025-12-20 06:46:22.799547
+354,7aac6b33-c6fc-4a5b-a25d-83e68312ff0f,354,354,TLO,Area 3,['Earthquake'],Underwriting,2025-10-03 06:46:22.799547
+355,6ed98694-1029-44f2-95c4-5ebc277f2135,355,355,TLO,Area 3,"['Flood', 'Earthquake']",Document Verified,2025-09-07 06:46:22.800549
+356,265f1c15-f2c6-40b9-a92b-3d7240cb1904,356,356,Comprehensive,Area 2,['Earthquake'],Underwriting,2025-07-23 06:46:22.800549
+357,a8008ceb-974d-4ca2-9c88-dcda0e74590b,357,357,Comprehensive,Area 3,"['Third Party Liability', 'Personal Accident']",Policy Issued,2025-10-01 06:46:22.800549
+358,3eb135dc-575d-430e-be3f-d7fdcc8d84cb,358,358,TLO,Area 2,"['Flood', 'Earthquake']",Policy Issued,2026-04-03 06:46:22.800549
+359,02b7a8c0-f01e-4e22-8b8b-e275b43b90c8,359,359,Comprehensive,Area 1,"['Earthquake', 'Third Party Liability']",Policy Issued,2025-09-16 06:46:22.800549
+360,05b6e13e-f590-40f4-af1c-1739ce628512,360,360,TLO,Area 3,"['Flood', 'Riot']",Document Verified,2026-05-16 06:46:22.800549
+361,11d549f4-e047-4017-877c-2011df916c0a,361,361,TLO,Area 3,['Flood'],Document Verified,2025-10-15 06:46:22.800549
+362,b0c3052a-0585-49e1-8551-eee287b7a435,362,362,TLO,Area 3,"['Earthquake', 'Personal Accident']",Underwriting,2026-02-24 06:46:22.800549
+363,d2f0f2e0-6a0c-45fb-8e83-71525125eeb1,363,363,Comprehensive,Area 2,['Third Party Liability'],Document Verified,2026-05-11 06:46:22.800549
+364,e7a81e7d-c302-44bd-bb03-67ce60e753fa,364,364,Comprehensive,Area 1,['Third Party Liability'],Policy Issued,2026-02-20 06:46:22.800549
+365,3ac77409-6d1b-4150-954a-cd9619b903c4,365,365,Comprehensive,Area 3,[],Policy Issued,2026-01-21 06:46:22.800549
+366,e6a69067-cae1-42b2-beeb-7514d1bb0a68,366,366,TLO,Area 2,[],Policy Issued,2025-11-06 06:46:22.800549
+367,25173720-2bb3-4b68-9099-26d68e830c4f,367,367,Comprehensive,Area 3,"['Flood', 'Riot']",Policy Issued,2025-08-24 06:46:22.801548
+368,9eff8179-ad92-42fc-932d-4a03ff4a3566,368,368,Comprehensive,Area 2,"['Flood', 'Earthquake', 'Personal Accident']",Underwriting,2026-06-19 06:46:22.801548
+369,696cb545-7cc2-4276-b9d5-7262a1400b60,369,369,TLO,Area 1,"['Third Party Liability', 'Personal Accident']",Policy Issued,2025-09-23 06:46:22.801548
+370,5f41f568-cf88-4c9c-90ce-3b184a6bcb30,370,370,TLO,Area 3,['Flood'],Submitted,2025-12-14 06:46:22.801548
+371,ba785d3d-6d84-474d-8c04-d089718f454b,371,371,Comprehensive,Area 2,"['Riot', 'Third Party Liability']",Document Verified,2026-01-22 06:46:22.801548
+372,1026758e-8014-47c5-8b70-ec6f5b536053,372,372,Comprehensive,Area 3,['Riot'],Policy Issued,2026-04-28 06:46:22.801548
+373,b6174a79-826e-4c4e-a9db-7aec85f077ed,373,373,TLO,Area 3,"['Riot', 'Third Party Liability']",Policy Issued,2025-09-09 06:46:22.801548
+374,caf530df-9f6f-4f81-ab8b-07b29961fbbe,374,374,Comprehensive,Area 1,"['Earthquake', 'Riot', 'Third Party Liability']",Policy Issued,2026-02-02 06:46:22.801548
+375,4f98d6c4-1c55-47c7-889f-c4d404455409,375,375,Comprehensive,Area 2,"['Flood', 'Earthquake', 'Riot']",Policy Issued,2026-07-04 06:46:22.801548
+376,82471b49-b0bf-4cf2-b3a4-2fd7edb82986,376,376,Comprehensive,Area 1,['Earthquake'],Policy Issued,2026-05-31 06:46:22.801548
+377,8772fced-c1fa-476a-8ef4-1aa4f306342a,377,377,TLO,Area 1,"['Earthquake', 'Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2026-06-02 06:46:22.801548
+378,a7c6164e-c118-48ce-b28e-e126ca874e22,378,378,Comprehensive,Area 2,[],Document Verified,2025-07-23 06:46:22.801548
+379,374ff261-5a47-4477-9626-da5fbc8fb466,379,379,TLO,Area 2,['Earthquake'],Document Verified,2026-04-25 06:46:22.802551
+380,58e8c042-e49f-4991-9940-8c7811ebead7,380,380,TLO,Area 2,"['Flood', 'Earthquake']",Policy Issued,2026-02-08 06:46:22.802551
+381,22749d47-4127-4314-bef3-a554bc2a298f,381,381,Comprehensive,Area 1,['Personal Accident'],Rejected,2025-12-31 06:46:22.802551
+382,344bddef-f51f-4f15-8a79-726632eb831f,382,382,Comprehensive,Area 1,"['Flood', 'Third Party Liability', 'Personal Accident']",Underwriting,2026-04-30 06:46:22.802551
+383,d0a067f4-67b1-4ab9-9065-db7551eaa156,383,383,TLO,Area 2,['Third Party Liability'],Document Verified,2025-08-22 06:46:22.802551
+384,966f22ae-9639-47ad-a26a-d3d4119e849b,384,384,Comprehensive,Area 3,[],Submitted,2026-03-25 06:46:22.802551
+385,bde1d6ff-156f-44d5-ad4c-d255b6e911b5,385,385,Comprehensive,Area 1,[],Policy Issued,2025-08-01 06:46:22.802551
+386,6d804b93-5bc9-48f3-9789-ee040b201ace,386,386,TLO,Area 3,"['Flood', 'Earthquake', 'Personal Accident']",Policy Issued,2025-09-23 06:46:22.802551
+387,5dbdd4dd-3322-41d2-967f-19501c85d4cb,387,387,Comprehensive,Area 2,"['Riot', 'Third Party Liability']",Rejected,2025-10-19 06:46:22.802551
+388,66a39e75-d23e-468d-b17e-b5ee7f8bc58f,388,388,Comprehensive,Area 1,"['Flood', 'Earthquake', 'Third Party Liability']",Policy Issued,2025-12-19 06:46:22.802551
+389,57479b56-b9c7-4151-a493-971ea1f57da3,389,389,TLO,Area 1,"['Flood', 'Earthquake', 'Riot']",Submitted,2025-07-21 06:46:22.802551
+390,772cc93f-acaa-445c-9c7f-b542bd4fe704,390,390,Comprehensive,Area 2,['Earthquake'],Document Verified,2026-06-23 06:46:22.802551
+391,cb3cb9d2-b3e1-4c0d-9df7-875959f39602,391,391,Comprehensive,Area 1,['Personal Accident'],Underwriting,2026-05-17 06:46:22.803549
+392,bbd24c4d-7187-4e34-ba10-8aaaa262352b,392,392,Comprehensive,Area 2,"['Flood', 'Earthquake']",Policy Issued,2026-03-08 06:46:22.803549
+393,aea6ac22-1b7c-4dc6-932e-6474e8be7871,393,393,Comprehensive,Area 2,"['Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2026-01-25 06:46:22.803549
+394,54e15b9d-f93f-4cb1-86a3-b97827f6ca98,394,394,TLO,Area 1,['Personal Accident'],Policy Issued,2026-03-17 06:46:22.803549
+395,dde4fd29-25e4-4edb-8e7b-1ee5c36d0d18,395,395,TLO,Area 3,['Personal Accident'],Document Verified,2025-08-29 06:46:22.803549
+396,a06fb972-55d5-47bf-bc43-103be48978e1,396,396,Comprehensive,Area 2,"['Earthquake', 'Third Party Liability']",Policy Issued,2026-04-03 06:46:22.803549
+397,34ce06e8-66ab-4a45-ab64-b33d4a0b1ef7,397,397,TLO,Area 1,['Third Party Liability'],Policy Issued,2026-05-11 06:46:22.803549
+398,80bde71b-bef0-4394-85da-e82047d28b2d,398,398,Comprehensive,Area 2,"['Flood', 'Earthquake', 'Third Party Liability', 'Personal Accident']",Document Verified,2026-05-02 06:46:22.803549
+399,f08bc203-3870-4ec7-b82f-ad0b0a053270,399,399,Comprehensive,Area 3,"['Flood', 'Earthquake', 'Third Party Liability']",Document Verified,2025-09-30 06:46:22.803549
+400,a0be667f-2874-40c8-b1c8-3f774573e2a7,400,400,TLO,Area 2,"['Riot', 'Personal Accident']",Document Verified,2025-10-15 06:46:22.803549
+401,8d37a5dc-de53-40d1-9f56-e8d9dabd1f2e,401,401,TLO,Area 2,"['Flood', 'Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-07-31 06:46:22.803549
+402,b743f79b-28d4-49c9-aae6-281f18669551,402,402,Comprehensive,Area 1,['Personal Accident'],Policy Issued,2026-03-26 06:46:22.804646
+403,e0609673-4294-4908-82d0-e701b603b953,403,403,TLO,Area 3,['Flood'],Submitted,2026-05-12 06:46:22.804646
+404,b5a1af3e-ac37-49a1-a3fc-ab3d93ebadb6,404,404,Comprehensive,Area 3,"['Earthquake', 'Riot', 'Third Party Liability']",Policy Issued,2026-06-26 06:46:22.804646
+405,12824e3c-7f8c-4980-990a-79b341ce7922,405,405,Comprehensive,Area 1,"['Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2026-05-21 06:46:22.804646
+406,074c69d0-6a2f-435b-b291-2aa49da8e030,406,406,Comprehensive,Area 3,"['Earthquake', 'Riot']",Underwriting,2026-07-05 06:46:22.804646
+407,e769cff5-c8b8-4a09-a169-fbe049d6b206,407,407,Comprehensive,Area 2,"['Flood', 'Riot']",Policy Issued,2026-04-24 06:46:22.804646
+408,744b557b-6047-4f96-bd36-7ab933b15f7f,408,408,TLO,Area 1,"['Earthquake', 'Personal Accident']",Underwriting,2025-12-10 06:46:22.804646
+409,92bd2017-bb0a-4fd1-aa8c-cdd5a2c785d2,409,409,Comprehensive,Area 1,"['Flood', 'Third Party Liability']",Policy Issued,2025-12-24 06:46:22.804646
+410,c9a68f80-3cb4-47dc-bca7-6af7b75b6f46,410,410,TLO,Area 2,['Third Party Liability'],Policy Issued,2025-08-03 06:46:22.804646
+411,4ead2ab5-8e49-4679-9944-5346ad0e607b,411,411,Comprehensive,Area 2,"['Third Party Liability', 'Personal Accident']",Policy Issued,2026-06-19 06:46:22.804646
+412,a9eab6ca-20eb-4d8e-b81f-e51fba6764a1,412,412,TLO,Area 1,[],Underwriting,2025-10-14 06:46:22.804646
+413,6f7b85b0-a0e1-4355-b0a3-9177e8c7e730,413,413,TLO,Area 1,"['Flood', 'Personal Accident']",Document Verified,2025-08-21 06:46:22.804646
+414,09410ffc-3e21-4710-9abd-104411fa4fbf,414,414,TLO,Area 1,"['Flood', 'Earthquake']",Policy Issued,2025-12-27 06:46:22.805638
+415,a20c3e71-8244-46a0-b5a9-fe095dcf6dfb,415,415,TLO,Area 3,"['Flood', 'Riot', 'Personal Accident']",Document Verified,2026-06-04 06:46:22.805638
+416,f3ffc146-af0f-4cdd-94f0-14c6a5d8bc56,416,416,TLO,Area 3,"['Flood', 'Riot', 'Third Party Liability']",Policy Issued,2026-05-03 06:46:22.805638
+417,2b5825a2-f34c-438e-bb7d-fc1ef055dc3c,417,417,Comprehensive,Area 3,"['Earthquake', 'Riot']",Policy Issued,2026-02-16 06:46:22.805638
+418,dee3ab89-6f0e-4ff9-97fd-d5ccfe8ef43d,418,418,Comprehensive,Area 3,"['Flood', 'Personal Accident']",Document Verified,2026-03-21 06:46:22.805638
+419,6fb613c7-ea6b-430f-a304-726b257324fd,419,419,TLO,Area 3,['Riot'],Policy Issued,2026-06-10 06:46:22.805638
+420,dbf2f0da-f0a3-4b7a-b0e4-fe01d5f64f54,420,420,Comprehensive,Area 2,[],Policy Issued,2025-11-23 06:46:22.805638
+421,0174d2d0-ebdc-4ebb-bf71-573088dd09fe,421,421,Comprehensive,Area 3,"['Flood', 'Riot']",Policy Issued,2026-02-13 06:46:22.805638
+422,cdf2f280-fad1-485a-8c58-6db091aa5061,422,422,Comprehensive,Area 2,"['Flood', 'Third Party Liability']",Policy Issued,2026-03-16 06:46:22.805638
+423,3ca8094e-85c6-4244-8645-ba49684fab1a,423,423,TLO,Area 3,['Flood'],Policy Issued,2025-10-26 06:46:22.806638
+424,66ce3985-2380-4a16-b9ae-7e6c215c41a5,424,424,TLO,Area 3,"['Flood', 'Third Party Liability']",Policy Issued,2025-11-23 06:46:22.806638
+425,ff3b6b0c-0226-4dac-964d-8e04b9a3f865,425,425,TLO,Area 2,"['Flood', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-11-04 06:46:22.806638
+426,557d3aa4-6450-4200-9d2e-2671b6b333ca,426,426,Comprehensive,Area 3,['Earthquake'],Policy Issued,2026-05-08 06:46:22.807158
+427,8c719dda-9d4c-4e66-948f-6e561895487e,427,427,Comprehensive,Area 3,"['Third Party Liability', 'Personal Accident']",Policy Issued,2026-05-17 06:46:22.807158
+428,b7f3eefe-60d5-4870-bdd0-318718fdef09,428,428,Comprehensive,Area 1,['Earthquake'],Policy Issued,2025-10-16 06:46:22.807158
+429,1a4cb0c6-257c-47bd-9bf3-1ef4552f09ec,429,429,Comprehensive,Area 3,"['Flood', 'Personal Accident']",Submitted,2026-01-13 06:46:22.807158
+430,8eef644a-bbc4-453f-bcb6-cc517cc5df1b,430,430,TLO,Area 2,[],Policy Issued,2025-07-08 06:46:22.807158
+431,a92d738d-09aa-4235-9daf-9fc0732f5c64,431,431,TLO,Area 1,['Riot'],Document Verified,2025-10-29 06:46:22.807158
+432,c6d5ed70-601f-4d53-aafa-d7ae69b3bfbf,432,432,Comprehensive,Area 3,"['Flood', 'Riot']",Underwriting,2026-01-10 06:46:22.807158
+433,38e22dd2-42bf-4c60-af20-350edddf69c7,433,433,Comprehensive,Area 1,[],Policy Issued,2026-03-25 06:46:22.808184
+434,d722c58c-1fb7-45d1-999b-fbf16102e8cc,434,434,TLO,Area 1,"['Riot', 'Third Party Liability']",Document Verified,2026-04-18 06:46:22.808184
+435,2a372205-8fa6-403b-871c-645185b32293,435,435,Comprehensive,Area 2,['Flood'],Policy Issued,2026-05-28 06:46:22.808184
+436,b71e139e-1282-4db4-bfcc-25c0f0d45f19,436,436,Comprehensive,Area 1,['Third Party Liability'],Underwriting,2026-02-21 06:46:22.808184
+437,3b275587-faf6-4a97-adc9-737bd268fe70,437,437,Comprehensive,Area 3,['Personal Accident'],Policy Issued,2026-06-12 06:46:22.808184
+438,1c6651ed-af3f-4a6e-b6ec-f65f2114ef1a,438,438,TLO,Area 3,"['Riot', 'Personal Accident']",Policy Issued,2025-09-11 06:46:22.808184
+439,415989f9-3ac8-4332-a328-42c4a9ea3d9d,439,439,TLO,Area 2,"['Flood', 'Riot', 'Personal Accident']",Document Verified,2025-09-17 06:46:22.809184
+440,c3fb94c9-7a12-417a-9331-d03c64425c83,440,440,Comprehensive,Area 3,"['Earthquake', 'Third Party Liability']",Submitted,2025-09-09 06:46:22.809184
+441,94f595dd-337f-4cb4-a182-9fd1da65a758,441,441,TLO,Area 2,"['Flood', 'Earthquake', 'Riot']",Underwriting,2025-08-14 06:46:22.809184
+442,90c50736-4ab3-410a-ae36-1ec0f06099bc,442,442,TLO,Area 2,[],Document Verified,2026-05-16 06:46:22.809184
+443,7e925d52-46d9-48e4-a83d-85cff4ad552f,443,443,TLO,Area 3,[],Policy Issued,2025-09-18 06:46:22.809184
+444,350332dd-cd62-493c-94e7-0831dee26b13,444,444,TLO,Area 2,['Personal Accident'],Underwriting,2025-09-12 06:46:22.809184
+445,0fa2c610-1993-47a2-804a-df20dc1b420f,445,445,TLO,Area 2,"['Riot', 'Personal Accident']",Policy Issued,2026-04-14 06:46:22.809184
+446,7d4663ee-37c7-46f7-8449-d0356430b16c,446,446,TLO,Area 2,"['Flood', 'Earthquake']",Policy Issued,2025-10-04 06:46:22.809184
+447,ae552a9d-95c2-4d4c-a000-c0888ac5e764,447,447,TLO,Area 2,"['Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2026-05-20 06:46:22.809184
+448,b8ebbf63-b259-4391-887d-c0e85a89fc0a,448,448,TLO,Area 1,"['Flood', 'Riot']",Policy Issued,2026-04-23 06:46:22.810184
+449,d2bdb2cf-cc01-42bd-adc8-b7a65641966d,449,449,TLO,Area 1,['Third Party Liability'],Policy Issued,2025-08-03 06:46:22.810184
+450,fd278a04-578e-4599-901c-0ada75ca9163,450,450,TLO,Area 1,"['Flood', 'Earthquake', 'Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-10-07 06:46:22.810184
+451,47cc3654-e9a3-4ed0-a9b8-5032de0759f3,451,451,Comprehensive,Area 2,"['Flood', 'Riot']",Document Verified,2025-09-18 06:46:22.811178
+452,0d90266c-c093-4058-ab2f-8f203c6a3133,452,452,Comprehensive,Area 3,"['Flood', 'Riot']",Policy Issued,2026-02-25 06:46:22.811178
+453,6c884415-2739-4b09-9697-819762dedb9e,453,453,Comprehensive,Area 2,"['Riot', 'Third Party Liability']",Policy Issued,2025-12-25 06:46:22.811178
+454,6bf8306a-4fa6-4dcf-8aea-10f5177c3ad4,454,454,TLO,Area 1,"['Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-07-27 06:46:22.811178
+455,1dc269a1-8cc0-410d-962b-ac237d07f258,455,455,TLO,Area 2,['Riot'],Policy Issued,2025-12-19 06:46:22.811178
+456,97e6f339-5e94-43d8-86b5-96f9dff3a3a9,456,456,TLO,Area 3,"['Flood', 'Earthquake']",Policy Issued,2026-03-12 06:46:22.811178
+457,6b1e0eaf-98cd-4233-a99f-519dac8c5863,457,457,Comprehensive,Area 2,"['Earthquake', 'Riot']",Policy Issued,2025-10-27 06:46:22.812172
+458,57d1266e-1474-4ac0-b9f3-86d064fcbed4,458,458,Comprehensive,Area 2,"['Third Party Liability', 'Personal Accident']",Policy Issued,2026-01-18 06:46:22.812172
+459,18e42de7-373a-45b6-a55e-22ea1896040b,459,459,TLO,Area 2,"['Earthquake', 'Third Party Liability', 'Personal Accident']",Policy Issued,2026-04-05 06:46:22.812172
+460,6d27f3b2-e000-4a27-a117-88a855fabdce,460,460,TLO,Area 2,['Personal Accident'],Underwriting,2025-12-23 06:46:22.812172
+461,5bb56be0-bc2c-432b-b415-04a7f451ec15,461,461,Comprehensive,Area 2,"['Flood', 'Earthquake']",Policy Issued,2026-06-04 06:46:22.812172
+462,581cb7e3-6e71-4634-97d1-582a8943aaab,462,462,Comprehensive,Area 1,['Personal Accident'],Policy Issued,2025-08-19 06:46:22.812839
+463,3b261d71-8a54-4366-8981-b6af813386ea,463,463,Comprehensive,Area 2,['Personal Accident'],Policy Issued,2026-02-21 06:46:22.812839
+464,fe2e9ba2-f7e6-47f6-8c19-522b06e4dcdb,464,464,TLO,Area 2,['Third Party Liability'],Policy Issued,2025-12-17 06:46:22.812839
+465,cc8c5e21-813d-446a-86b5-c9a0787b7be5,465,465,Comprehensive,Area 3,"['Flood', 'Earthquake']",Policy Issued,2026-05-23 06:46:22.813351
+466,326711de-5989-436d-839a-2d796a89439e,466,466,TLO,Area 2,"['Earthquake', 'Third Party Liability', 'Personal Accident']",Underwriting,2025-08-03 06:46:22.813351
+467,07299952-4abc-4b32-b8b5-57976188a231,467,467,Comprehensive,Area 3,"['Earthquake', 'Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2026-03-10 06:46:22.813351
+468,007c295c-fd81-49a1-93a1-758d718c7cc0,468,468,TLO,Area 2,"['Flood', 'Earthquake', 'Third Party Liability']",Document Verified,2026-01-24 06:46:22.813351
+469,9060b6c6-4d9a-4bb4-9f95-9eef4a02c3b6,469,469,TLO,Area 2,['Riot'],Policy Issued,2026-02-03 06:46:22.813930
+470,bb5690a1-0482-40bc-ad2c-454e3dff2d2c,470,470,TLO,Area 2,"['Third Party Liability', 'Personal Accident']",Policy Issued,2026-02-17 06:46:22.813930
+471,29279f8a-81a2-4a2d-a04f-d1c6759031ec,471,471,Comprehensive,Area 1,['Third Party Liability'],Submitted,2025-10-16 06:46:22.813930
+472,5c22dc83-e394-404b-900e-8b008e9482e0,472,472,Comprehensive,Area 3,['Riot'],Document Verified,2025-12-14 06:46:22.814466
+473,eaa81ab9-8038-4f58-a90e-04bd9df4a215,473,473,Comprehensive,Area 3,[],Policy Issued,2026-03-14 06:46:22.814466
+474,9a6a9022-6558-4e48-b41f-53a9a1ec34e7,474,474,Comprehensive,Area 1,"['Earthquake', 'Third Party Liability']",Policy Issued,2025-07-15 06:46:22.814466
+475,8edd8278-6703-4af5-a395-a1217502f378,475,475,TLO,Area 1,['Third Party Liability'],Policy Issued,2025-07-20 06:46:22.814466
+476,f39af97f-13d6-4849-857a-e3032c7968ed,476,476,Comprehensive,Area 3,['Personal Accident'],Policy Issued,2026-05-05 06:46:22.814466
+477,b61000f3-8822-4c77-8b4d-95101e7be492,477,477,TLO,Area 2,"['Flood', 'Earthquake', 'Third Party Liability']",Rejected,2026-03-03 06:46:22.814466
+478,2b9b2090-a81e-4b28-9f1d-f9672d0a8479,478,478,Comprehensive,Area 1,['Earthquake'],Rejected,2026-03-13 06:46:22.815483
+479,780bf8cb-56c1-472f-a278-7b56184e29d6,479,479,TLO,Area 1,"['Earthquake', 'Riot']",Policy Issued,2025-07-09 06:46:22.815483
+480,3aab3666-121b-45de-bf7c-9fd46133e2f5,480,480,Comprehensive,Area 3,[],Rejected,2026-06-12 06:46:22.815483
+481,7269ebec-7000-4504-962a-7002adee4eb0,481,481,TLO,Area 3,"['Flood', 'Riot', 'Personal Accident']",Submitted,2026-04-07 06:46:22.815483
+482,bed4e38b-989a-423c-8c21-2a69b481eef6,482,482,TLO,Area 2,"['Flood', 'Earthquake', 'Riot', 'Personal Accident']",Submitted,2025-11-29 06:46:22.815483
+483,8a4c96f0-d465-4508-8cc4-b1b14efe908a,483,483,TLO,Area 1,"['Earthquake', 'Personal Accident']",Policy Issued,2026-01-27 06:46:22.815483
+484,3317c829-a145-4712-ab50-f8db19ee2390,484,484,TLO,Area 2,"['Earthquake', 'Third Party Liability']",Policy Issued,2026-01-25 06:46:22.815483
+485,411817ae-a4d6-49c2-99b7-5d5356f5b32d,485,485,TLO,Area 2,[],Policy Issued,2026-02-25 06:46:22.816501
+486,a7752afd-e80d-446e-9ade-65a7b4ed7699,486,486,TLO,Area 1,"['Flood', 'Earthquake', 'Riot']",Policy Issued,2026-06-10 06:46:22.816501
+487,dbd3dad2-d72a-4d37-91e4-0ab486ec690a,487,487,TLO,Area 2,['Third Party Liability'],Document Verified,2026-04-16 06:46:22.816501
+488,12e336c2-2145-49be-a1f6-16a74c2551d7,488,488,TLO,Area 1,['Third Party Liability'],Policy Issued,2025-07-17 06:46:22.816501
+489,ba54a71e-c1da-48a5-a359-4c9bc7bc305c,489,489,Comprehensive,Area 2,[],Rejected,2026-04-08 06:46:22.816501
+490,c9b32633-e050-4650-8b35-153a89643f58,490,490,TLO,Area 2,"['Flood', 'Riot', 'Third Party Liability', 'Personal Accident']",Underwriting,2025-10-07 06:46:22.816501
+491,be38acb0-d5f2-4b16-a3d0-b3eb776ff1bc,491,491,Comprehensive,Area 3,"['Earthquake', 'Third Party Liability']",Policy Issued,2025-11-07 06:46:22.816501
+492,d8bf2a61-a649-4beb-8014-31765e88b6e7,492,492,Comprehensive,Area 1,['Flood'],Policy Issued,2026-04-10 06:46:22.817493
+493,af35c335-4d9a-42dc-baf8-c618f66cd1a2,493,493,TLO,Area 2,"['Flood', 'Riot', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-11-21 06:46:22.817493
+494,605c1e37-d079-4717-8a00-225e79e17f6e,494,494,Comprehensive,Area 1,"['Flood', 'Earthquake', 'Riot']",Document Verified,2026-05-12 06:46:22.817493
+495,05a5178e-7207-4296-afed-edbb0ad07e99,495,495,Comprehensive,Area 3,['Third Party Liability'],Policy Issued,2025-11-29 06:46:22.817493
+496,f79a0029-9a31-49cb-a058-81846fb1c28b,496,496,Comprehensive,Area 1,['Riot'],Underwriting,2025-12-31 06:46:22.817493
+497,a29b51aa-d70e-4658-bc1a-a49c10cd47c4,497,497,Comprehensive,Area 1,"['Flood', 'Third Party Liability', 'Personal Accident']",Policy Issued,2025-10-23 06:46:22.817493
+498,fada6e8c-60ae-4d8f-8820-1e2e27fd4961,498,498,TLO,Area 3,"['Earthquake', 'Riot']",Underwriting,2026-02-27 06:46:22.817493
+499,91cd96e4-467a-49fa-a4c2-da8f7641ba2e,499,499,Comprehensive,Area 2,['Earthquake'],Underwriting,2026-05-11 06:46:22.818495
+500,fd2973a4-89c6-4133-98a6-806d0908c0ce,500,500,TLO,Area 3,"['Earthquake', 'Riot']",Document Verified,2025-07-23 06:46:22.818495
