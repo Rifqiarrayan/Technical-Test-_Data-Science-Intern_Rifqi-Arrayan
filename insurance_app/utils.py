@@ -66,6 +66,12 @@ def apply_theme() -> None:
                 background: linear-gradient(175deg, #0A1F3D 0%, #102A50 60%, #0D2244 100%) !important;
                 border-right: 1px solid rgba(200,151,58,0.25) !important;
             }
+            [data-testid="stSidebarNav"] > div:first-child {
+                display: none !important;
+            }
+            [data-testid="stSidebarNav"] > ul > li:first-child {
+                display: none !important;
+            }
             [data-testid="stSidebar"] * {
                 color: #CBD8E8 !important;
                 font-family: 'Inter', sans-serif !important;
