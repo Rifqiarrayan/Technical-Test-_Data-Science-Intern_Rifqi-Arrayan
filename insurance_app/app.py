@@ -3,7 +3,7 @@ from __future__ import annotations
 import streamlit as st
 
 from config import ASSETS_DIR
-from utils import apply_theme, ensure_initialized, top_banner
+from utils import apply_theme, ensure_initialized, page_footer, top_banner
 
 st.set_page_config(
     page_title="Etiqa Motor Insurance System",
@@ -17,28 +17,32 @@ ensure_initialized()
 
 top_banner()
 
-logo_path = ASSETS_DIR / "logo.png"
-banner_path = ASSETS_DIR / "banner.png"
-
-col1, col2 = st.columns([1, 3])
-with col1:
-    if logo_path.exists():
-        st.image(str(logo_path), use_container_width=True)
-with col2:
-    if banner_path.exists():
-        st.image(str(banner_path), use_container_width=True)
-
-st.markdown("### Welcome")
-st.write(
-    "This application simulates an end-to-end motor vehicle insurance workflow "
-    "from customer registration until policy issuance and analytics dashboard."
-)
-
-st.info("Use the sidebar to navigate through Home, New Application, Premium, Underwriting, Policy, and Dashboard pages.")
-
-st.markdown("### Workflow")
 st.markdown(
-    "Customer → Vehicle Information → Coverage Selection → Premium Calculation (OJK) → "
-    "Application Submission → Document Verification → Underwriting → Approval/Rejection → "
-    "Policy Issued → Analytics Dashboard"
+    """
+    <div style="
+        background: linear-gradient(135deg, #0A1F3D 0%, #1A3860 100%);
+        border-radius: 14px;
+        padding: 48px 52px;
+        margin-bottom: 28px;
+        box-shadow: 0 8px 32px rgba(10,31,61,0.22);
+        text-align: center;
+    ">
+        <div style="font-family:'Inter',sans-serif;font-size:2rem;font-weight:800;
+            color:#FFFFFF;margin-bottom:12px;letter-spacing:-0.02em;">
+            Welcome to Etiqa Motor Vehicle Insurance
+        </div>
+        <div style="font-family:'Inter',sans-serif;font-size:1rem;color:#A8BEDB;
+            max-width:600px;margin:0 auto;line-height:1.7;">
+            End-to-end insurance management — from customer registration to policy issuance
+            and executive analytics, powered by OJK-compliant calculations.
+        </div>
+        <div style="margin-top:20px;font-family:'Inter',sans-serif;font-size:0.8rem;
+            color:#C8973A;font-weight:600;letter-spacing:0.06em;">
+            Use the sidebar to navigate between pages ›
+        </div>
+    </div>
+    """,
+    unsafe_allow_html=True,
 )
+
+page_footer()
